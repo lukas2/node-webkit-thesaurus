@@ -2,7 +2,7 @@
 
 This is a little Mac desktop writing helper-app for the German language. Please see my blogpost at http://lukaszielinski.de/blog/posts/2014/10/20/macthesaurus-a-mac-app-written-with-node-webkit
 
-To install:
+To install cd into the root-directory of the app and execute:
 
     npm install
 
