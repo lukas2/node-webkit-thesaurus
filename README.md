@@ -18,6 +18,6 @@ Yes, there's better ways to package everything, but I am lazy and just want to g
 
 Anyway, to run it, you can execute grunt:
 
-  grunt
+    grunt
 
 It should compile everything and run.
