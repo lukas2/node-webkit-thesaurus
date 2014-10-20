@@ -8,6 +8,7 @@ To install:
 
 You also need node-webkit, which isn't packaged. But to get it, you can use [yeoman](http://yeoman.io):
 
+		npm install -g yo
     npm install -g generator-node-webkit
     yo node-webkit
 
