@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica;
+  overflow: none;
+  background-color: #FFEECC; }
+
+#input-field {
+  width: 412px;
+  margin-bottom: 0;
+  font-family: Courier; }
+
+#results {
+  width: 412px;
+  height: auto;
+  max-height: 135px;
+  display: none;
+  background-color: #FFEE99;
+  font-family: Courier;
+  font-size: 0.75em;
+  padding: 10px;
+  overflow: scroll;
+  border: 1px solid #FFF; }
+
+#ajax-loader {
+  text-align: center;
+  display: none; }
+
+p a:hover, p a:link {
+  text-decoration: none;
+  color: #000; }
+
+#results p {
+  margin-top: 0;
+  margin-bottom: 1em; }
+
+#results p:last-child {
+  margin-bottom: 0; }

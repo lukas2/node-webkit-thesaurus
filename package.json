@@ -1,0 +1,34 @@
+{
+  "name": "macthesaurus",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "bower-requirejs": "~1.1.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-rename": "0.0.3",
+    "grunt-contrib-compress": "~0.9.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "load-grunt-tasks": "~0.6.0",
+    "time-grunt": "~0.3.1",
+    "concat-files": "~0.1.0",
+    "grunt-bower-requirejs": "~1.1.0",
+    "bower-requirejs": "~1.1.2",
+    "grunt-contrib-haml": "~0.2.0",
+    "grunt-contrib-coffee": "~0.12.0",
+    "grunt-shell": "~1.1.1",
+    "grunt-contrib-sass": "~0.8.1",
+    "grunt-bowercopy": "~1.1.0",
+    "grunt-haml": "~0.9.0",
+    "grunt-sass": "~0.16.0",
+    "grunt-node-webkit-builder": "~0.2.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

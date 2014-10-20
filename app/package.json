@@ -1,0 +1,15 @@
+{
+  "name": "macthesaurus",
+  "main": "views/index.html",
+  "version": "0.0.1",
+  "single-instance": true,
+  "window": {
+    "title": "Mac Thesaurus",
+    "width": 450,
+    "height": 250,
+    "min_width": 450,
+    "min_height": 250,
+    "toolbar": false
+  },
+  "chromium-args": "--child-clean-exit"
+}
